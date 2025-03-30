@@ -19,6 +19,9 @@ Mach dich bereit, das Endless Doors-Abenteuer zu erleben! 🚪✨
 English Description:
 
 ===========================================================================
+
+English Description:
+
 🌌 Endless Doors - An Adventure Game 🌌
 
 „Endless Doors“ is an exciting, text-based adventure game where you navigate through mysterious rooms. Each room offers three doors – but only two lead to new worlds! One of them, however, leads straight into the abyss. ⏳
